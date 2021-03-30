@@ -1,0 +1,19 @@
+PÁGINA INICIAL - AUTOMATIZE:
+
+ - Página Inicial
+ - Sobre
+ - Serviços
+ - Clientes
+ - Contato
+
+SOBRE - AUTOMATIZE:
+
+ - Quem somos nós
+ - Missão e visão
+ - Valores
+
+SERVIÇOS - AUTOMATIZE:
+
+ - Criação de base de dados
+ - Automação de processos
+
